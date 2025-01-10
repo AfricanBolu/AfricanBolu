@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bolu
 - 👀 I’m interested in video games, and all things tech related...
-- 🌱 I’m currently majoring in computer science
+- 🌱 I’m computer science major graduate from University of Houston
 
 
 <!---
